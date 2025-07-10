@@ -6,9 +6,9 @@
 
 ##  Who We Are
 
-The Blackridge Foundation is a nonprofit initiative built to uplift the world’s most overlooked and underfunded creative minds. We are a growing force in the space between potential and opportunity—where talent exists but access does not.
+The Blackridge Foundation is a nonprofit initiative built to uplift the world’s most overlooked and underfunded creative minds. We are a growing force in the space between potential and opportunity, where talent exists but access does not.
 
-We support creators from all walks of life, particularly those from underrepresented backgrounds who have the ambition, vision, and talent—but lack the financial resources, tools, or exposure to succeed. 
+We support creators from all walks of life, particularly those from underrepresented backgrounds who have the ambition, vision, and talent, but lack the financial resources, tools, or exposure to succeed. 
 
 We believe that creative expression is not a luxury; it is a human necessity. Through community support, financial empowerment, and visibility, we exist to turn struggling creatives into self-sustaining forces of innovation and culture.
 
